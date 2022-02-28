@@ -1,5 +1,6 @@
 package com.training.threads;
 
+
 public class Printer extends Thread{
 
     //This will not create a thread and already violated a OOP concept here.
