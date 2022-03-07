@@ -5,7 +5,7 @@
  Rules : 
  <p>
    - Cannot use function such as sort,find,contains <br>
-   - Should follow n+1 pattern
+   - Should follow n+1 pattern<br>
  Bugs :
    - Application can not use to find two missing numbers of the sequence
    - Application can not determine whether missing number is start or the end
