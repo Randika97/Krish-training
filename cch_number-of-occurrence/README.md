@@ -5,10 +5,13 @@
  Rules : 
  <p>
    - Final output should be in alphabetical order  <br>
-   - Can not use sorting algo
+   - Can not use sorting algo<br>
+ </p>
  Bugs :
-   - Application count the spaces as characters and count it too.
- <p>
+<p>
+   - Application count the spaces as characters and count it too.<br>
+</p>
+
 <h4 align="center">Screenshot of an example</h4>
 <!-- image -->
 <img src="https://github.com/Randika97/Krish-training/blob/dev1/cch_number-of-occurrence/Screenshots/Screenshot%202022-03-07%20185907.png" alt="Screenshots" height="600" width="900">
