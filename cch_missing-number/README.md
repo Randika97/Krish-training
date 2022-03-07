@@ -9,5 +9,5 @@
  <p>
 <h4 align="center">Screenshot of a example</h4>
 <!-- image -->
-<img src="" alt="Screenshots" height="600" width="900">
+<img src="https://github.com/Randika97/Krish-training/blob/dev1/cch_missing-number/Screenshots/Screenshot%202022-03-07%20183853.png" alt="Screenshots" height="600" width="900">
  
