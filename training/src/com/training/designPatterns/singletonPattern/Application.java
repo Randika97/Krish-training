@@ -14,6 +14,7 @@ public class Application {
         // Instantiating Singleton class with variable lazyInstantiation
         LazyInstantiation lazyInstantiation = LazyInstantiation.getLazyInstantiation();
         System.out.println(lazyInstantiation);
+
         // Instantiating Singleton class with variable lazyInstantiation1
         LazyInstantiation lazyInstantiation1 = LazyInstantiation.getLazyInstantiation();
         System.out.println(lazyInstantiation1);
