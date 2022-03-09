@@ -14,12 +14,13 @@ public class Application {
         // Instantiating Singleton class with variable lazyInstantiation
         LazyInstantiation lazyInstantiation = LazyInstantiation.getLazyInstantiation();
         System.out.println(lazyInstantiation);
+
         // Instantiating Singleton class with variable lazyInstantiation1
         LazyInstantiation lazyInstantiation1 = LazyInstantiation.getLazyInstantiation();
         System.out.println(lazyInstantiation1);
 
-        System.out.println("Hashcode of x is "+ lazyInstantiation.hashCode());
-        System.out.println("Hashcode of y is "+ lazyInstantiation1.hashCode());
+        System.out.println("Hashcode of lazyInstantiation is "+ lazyInstantiation.hashCode());
+        System.out.println("Hashcode of lazyInstantiation1 is "+ lazyInstantiation1.hashCode());
 
     }
 }
