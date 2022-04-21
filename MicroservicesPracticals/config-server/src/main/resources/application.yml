@@ -22,8 +22,6 @@
   # work with config server
 
 spring:
-  autoconfigure:
-    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
   cloud:
     config:
       server:
@@ -32,6 +30,7 @@ spring:
           search-path:
             - 'service-config/*service'
           default-label: master
+
 
 server:
   port: 8191

@@ -24,3 +24,9 @@
 /MicroservicesPracticals/profile-service/.idea
 /MicroservicesPracticals/profile-service/target
 /MicroservicesPracticals/rentcloud/.idea
+/MicroservicesPracticals/rentcloud/rentcloud-commons.iml
+/MicroservicesPracticals/rentcloudauth/
+/MicroservicesPracticals/rentcloudauth/target
+/MicroservicesPracticals/authorization-server/authorization-server.iml
+/MicroservicesPracticals/authorization-server/.idea
+/MicroservicesPracticals/authorization-server/target
